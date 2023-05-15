@@ -4,4 +4,4 @@ git clone https://github.com/KING-TF/RANDOM.git
 
 cd RANDOM
 
-python FIRE1.py
+python FIRE-F1.py
